@@ -1,0 +1,4 @@
+zip_code,temperature,humidity,wind_speed,description,timestamp
+29466,72.84,38,5.75,haze,2024-03-13 12:31:59
+22405,69.35,27,4.61,clear sky,2024-03-13 12:31:59
+90210,59.29,64,34.52,clear sky,2024-03-13 12:31:59
