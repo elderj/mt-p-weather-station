@@ -11,3 +11,6 @@ zip_code,temperature,humidity,wind_speed,description,timestamp
 29466,69.44,53,17,clear sky,2024-03-30 18:45:02
 22405,67.44,31,9.22,scattered clouds,2024-03-30 18:45:02
 90210,53.82,80,18.41,overcast clouds,2024-03-30 18:45:02
+29466,64.42,37,18.01,few clouds,2024-04-04 18:45:02
+22405,52.7,33,13.8,broken clouds,2024-04-04 18:45:03
+90210,57.87,70,17.27,overcast clouds,2024-04-04 18:45:03
